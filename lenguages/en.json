@@ -1,0 +1,31 @@
+{
+    "home" : {
+        "carrer": "University programmer student",
+        "btn-download": "Download CV"
+    },
+    "aboutMe": {
+        "about-title": "About me",
+        "description" : "I am a very capable person to adapt easily and quickly in any field. I characterize my passion in the things that drive me to improve and my joy in developing them" ,
+        "description2" : "Currently University Programmer Study at the National Faculty of Tucuman and in a self -taught way I learned: HTML, CSS, JavaScript. Now I am learning Python. I love working as a team, communication with colleagues and knowing new worlds in the field of IT."
+    },
+    "skills":{
+        "skills-title" : "Skills"
+    },
+    "languages":{
+        "lenguages-title" : "Languages",
+        "es" : "Spanish",
+        "en" : "English"
+    },
+    "project" : {
+        "title-project" : "Project",
+        "add-seeMore" : "See more"
+    },
+    "experience": {
+        "title-experience" : "Experience",
+        "subtitle-personalProject" : "Personal Project",
+        "description-exp" : "Skill measure that I was learning different languages and frameworks I could do my personal projects, but experiences working for a company I still have no I hope you belong to this temporary line of experience :)"
+    },
+    "contact":{
+        "title-meeting": "Schedule a meeting"
+    }
+}

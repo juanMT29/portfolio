@@ -1,0 +1,31 @@
+{
+    "home" : {
+        "carrer": "Estudiante de Programacion Universitaria",
+        "btn-download": "Descargar CV"
+    },
+    "aboutMe": {
+        "about-title": "Sobre Mí",
+        "description" : "Soy una persona muy capaz de adaptarme con facilidad y rapidez en cualquier ámbito. Me caracterizo por mi pasión en las cosas que me impulsan a mejorar y mi Alegria en desarrollarlas" ,
+        "description2" : "Actualmente estudio Programador Universitario en la Facultad Nacional de Tucuman y de manera autodidacta aprendí: HTML, CSS, JAVASCRIPT. Ahora me encuentro aprendiendo Python Me encanta Trabajar en Equipo, la comunicación con compañeros y conocer nuevos mundos en el ambito de la IT."
+    },
+    "skills":{
+        "skills-title" : "Habilidades"
+    },
+    "languages":{
+        "lenguages-title" : "Lenguajes",
+        "es" : "Español",
+        "en" : "Ingles"
+    },
+    "project" : {
+        "title-project" : "Proyectos",
+        "add-seeMore" : "Ver Más"
+    },
+    "experience": {
+        "title-experience" : "Experiencias",
+        "subtitle-personalProject" : "Proyectos Personales",
+        "description-exp" : "A medida que iba aprendiendo distintos lenguajes y frameworks pude hacer mis proyectos personales, pero experiencias trabajando para una empresa no la tuve aún Espero que tu pertenezcas a esta linea temporal de experiencia :)"
+    },
+    "contact":{
+        "title-meeting": "Programar una Reunion"
+    }
+}
