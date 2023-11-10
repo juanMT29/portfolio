@@ -6,7 +6,9 @@
     "aboutMe": {
         "about-title": "Sobre Mí",
         "description" : "Soy una persona muy capaz de adaptarme con facilidad y rapidez en cualquier ámbito. Me caracterizo por mi pasión en las cosas que me impulsan a mejorar y mi Alegria en desarrollarlas" ,
-        "description2" : "Actualmente estudio Programador Universitario en la Facultad Nacional de Tucuman y de manera autodidacta aprendí: HTML, CSS, JAVASCRIPT. Ahora me encuentro aprendiendo Python Me encanta Trabajar en Equipo, la comunicación con compañeros y conocer nuevos mundos en el ambito de la IT."
+        "description2" : "Estudiante de segundo año de la Licenciatura en Programador en la Facultad Nacional de Tucumán, actualmente cursando una capacitación en Fundación Pescar en Salesforce | Karuna para formarme como Programador Web FullStack MERN. Mi interés autodidacta en tecnología abarca áreas como sistemas operativos, ciberseguridad y más, y actualmente estoy explorando las bases del hacking ético y forense a través de la lectura de un libro sobre Kali Linux.",
+        "description3" : "Participando activamente en un proyecto final con mi equipo, concebimos una aplicación que facilita a los egresados el acceso a propuestas de empresas aliadas. Mi enfoque en las relaciones interpersonales se refleja en mi gusto por ayudar y enseñar, evidenciado por mi iniciativa de crear una cuenta de Instagram para compartir tutoriales de programación y noticias tecnológicas en el futuro.",
+        "description4" : "Demostrando habilidades de adaptabilidad, en mi primer trabajo en ventas de bebidas, pasé de empleado a encargado general en seis meses. Dirigí la atención al cliente y la gestión de empleados, utilizando herramientas como Excel para optimizar la organización. Soy receptivo al feedback y siempre busco mejorar continuamente."
     },
     "skills":{
         "skills-title" : "Habilidades"

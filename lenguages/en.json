@@ -6,7 +6,9 @@
     "aboutMe": {
         "about-title": "About me",
         "description" : "I am a very capable person to adapt easily and quickly in any field. I characterize my passion in the things that drive me to improve and my joy in developing them" ,
-        "description2" : "Currently University Programmer Study at the National Faculty of Tucuman and in a self -taught way I learned: HTML, CSS, JavaScript. Now I am learning Python. I love working as a team, communication with colleagues and knowing new worlds in the field of IT."
+        "description2" : "Second-year student of the Bachelor's Degree in Programming at the Universidad Nacional de Tucuman, currently undergoing training at Fundación Pescar in Salesforce | Karuna to train me as a FullStack MERN Web Programmer. My self-taught interest in technology spans areas such as operating systems, cybersecurity, and more, and I am currently exploring the foundations of ethical and forensic hacking through reading a book on Kali Linux.",
+        "description3" : "Actively participating in a final project with my team, we conceived an application that makes it easier for graduates to access proposals from allied companies. My focus on interpersonal relationships is reflected in my love of helping and teaching, evidenced by my initiative to create an Instagram account to share programming tutorials and technology news in the future.",
+        "description4" : "Demonstrating adaptability skills, in my first job in beverage sales, I went from clerk to general manager in six months. I directed customer service and employee management, using tools such as Excel to optimize the organization. I am receptive to feedback and always seek to continually improve."
     },
     "skills":{
         "skills-title" : "Skills"
